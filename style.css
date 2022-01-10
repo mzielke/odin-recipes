@@ -1,8 +1,36 @@
+/* maybe add a "buy" button on bottom and link to a purchase */
+
+/* common page stylings */
 .home-button{
     background-color: burlywood;
     color: rgb(49, 22, 3);
 }
 
-h1 {
-    color: aqua;
+.recipe-title {
+    color: black;
+}
+
+.recipe-description {
+    color: black;
+}
+
+.recipe-ingredients {
+    color:black;
+}
+
+.recipe-steps {
+    text-decoration: underline;
+}
+
+/* Main page styling */
+.index-header {
+    color: burlywood;
+    background-color: rgb(99, 67, 19);
+    font-family: cursive;
+    font-size: 64px;
+}
+
+.index-recipe-list {
+    font-size: 24px;
+    
 }
